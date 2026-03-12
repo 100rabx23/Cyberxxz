@@ -25,7 +25,7 @@ e.preventDefault();
 
 alert("Login Successful!");
 
-window.location.href = "YOUR_LINK_HERE";
+window.location.href = "https://CyberAegXs.hdmixture.site";
 });
 
 
@@ -36,5 +36,5 @@ e.preventDefault();
 
 alert("Registration Successful!");
 
-window.location.href = "YOUR_LINK_HERE";
+window.location.href = "https://CyberAegXs.hdmixture.site";
 });
