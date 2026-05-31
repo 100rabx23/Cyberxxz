@@ -4,7 +4,7 @@ const registerForm = document.getElementById("registerForm");
 const showRegister = document.getElementById("showRegister");
 const showLogin = document.getElementById("showLogin");
 
-//okay its working!!!
+
 
 /* Toggle Forms */
 //tasfyjgqscgs
