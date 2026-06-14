@@ -10,6 +10,13 @@ loginForm.classList.remove("active");
 registerForm.classList.add("active");
 }
 
+
+
+
+
+//12345
+
+
 showLogin.onclick = () => {
 registerForm.classList.remove("active");
 loginForm.classList.add("active");
